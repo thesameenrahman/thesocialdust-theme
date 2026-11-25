@@ -1,0 +1,12 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Dependencies and builds
+node_modules/
+vendor/
+*.zip
+*.log
